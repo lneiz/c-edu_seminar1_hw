@@ -14,17 +14,15 @@ else Console.WriteLine($"max = {num1}, min = {num2}");
 
 /*
 int max = 0;
-int[] nums = new int[3];
 Console.WriteLine("Введите числа: ");
 
-for(int i = 0; i < nums.Length; i++)
+for(int i = 0; i < 3; i++)
 {
-    nums[i] = Convert.ToInt32(Console.ReadLine());
-}
-
-for(int i = 0; i < nums.Length; i++)
-{
-    if(nums[i] > max) max = nums[i];
+    int num = Convert.ToInt32(Console.ReadLine());
+    if(max < num)
+    {
+        max = num;
+    }
 }
 
 Console.WriteLine("Максимальное число: " + max);
