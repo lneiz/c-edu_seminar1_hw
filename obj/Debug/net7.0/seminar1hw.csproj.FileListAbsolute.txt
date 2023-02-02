@@ -1,0 +1,15 @@
+C:\Users\lneiz\Documents\Git_GB\C#edu\seminar1hw\obj\Debug\net7.0\seminar1hw.csproj.AssemblyReference.cache
+C:\Users\lneiz\Documents\Git_GB\C#edu\seminar1hw\obj\Debug\net7.0\seminar1hw.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lneiz\Documents\Git_GB\C#edu\seminar1hw\obj\Debug\net7.0\seminar1hw.AssemblyInfoInputs.cache
+C:\Users\lneiz\Documents\Git_GB\C#edu\seminar1hw\obj\Debug\net7.0\seminar1hw.AssemblyInfo.cs
+C:\Users\lneiz\Documents\Git_GB\C#edu\seminar1hw\obj\Debug\net7.0\seminar1hw.csproj.CoreCompileInputs.cache
+C:\Users\lneiz\Documents\Git_GB\C#edu\seminar1hw\bin\Debug\net7.0\seminar1hw.exe
+C:\Users\lneiz\Documents\Git_GB\C#edu\seminar1hw\bin\Debug\net7.0\seminar1hw.deps.json
+C:\Users\lneiz\Documents\Git_GB\C#edu\seminar1hw\bin\Debug\net7.0\seminar1hw.runtimeconfig.json
+C:\Users\lneiz\Documents\Git_GB\C#edu\seminar1hw\bin\Debug\net7.0\seminar1hw.dll
+C:\Users\lneiz\Documents\Git_GB\C#edu\seminar1hw\bin\Debug\net7.0\seminar1hw.pdb
+C:\Users\lneiz\Documents\Git_GB\C#edu\seminar1hw\obj\Debug\net7.0\seminar1hw.dll
+C:\Users\lneiz\Documents\Git_GB\C#edu\seminar1hw\obj\Debug\net7.0\refint\seminar1hw.dll
+C:\Users\lneiz\Documents\Git_GB\C#edu\seminar1hw\obj\Debug\net7.0\seminar1hw.pdb
+C:\Users\lneiz\Documents\Git_GB\C#edu\seminar1hw\obj\Debug\net7.0\seminar1hw.genruntimeconfig.cache
+C:\Users\lneiz\Documents\Git_GB\C#edu\seminar1hw\obj\Debug\net7.0\ref\seminar1hw.dll
